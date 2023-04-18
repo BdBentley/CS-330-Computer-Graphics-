@@ -1,7 +1,6 @@
 # CS-330-Computer-Graphics-
 SNHU C++ Course on Computer graphics
 
-
     How do I approach designing software?
         What new design skills has your work on the project helped you to craft?
         What design process did you follow for your project work?
@@ -15,3 +14,4 @@ SNHU C++ Course on Computer graphics
     How can computer science help me in reaching my goals?
         How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
         How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+
