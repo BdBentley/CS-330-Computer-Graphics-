@@ -25,7 +25,7 @@
 using namespace std;
 
 //window title
-const char* const WINDOW_TITLE = "Module 7 Final Project | lorenarms";
+const char* const WINDOW_TITLE = "Final Project";
 
 //window width, height
 const int WINDOW_WIDTH = 1920;
