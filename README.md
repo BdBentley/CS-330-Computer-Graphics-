@@ -1,7 +1,7 @@
 # CS-330-Computer-Graphics-
 
-     ## How do I approach designing software?
-        I approach designing software with a troubleshooting process in mind. I start by reading documentation and then immeditaley start experimenting with the         different technologies used in the project.
+## How do I approach designing software?
+I approach designing software with a troubleshooting process in mind. I start by reading documentation and then immeditaley start experimenting with the         different technologies used in the project.
     
      ** What new design skills has your work on the project helped you to craft?  **
         It has certainly helped with my ability to look up different solutions to complex problems. It has also expanded my understanding of OpenGL and GLEW
