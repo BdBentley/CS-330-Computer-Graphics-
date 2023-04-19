@@ -1,0 +1,3 @@
+﻿  SceneBuilder.cpp
+C:\CS-330-Project\CS330Project\SceneBuilder.cpp(31,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CS330Project.vcxproj -> C:\CS-330-Project\CS330Project\Debug\CS330Project.exe
