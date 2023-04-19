@@ -1,5 +1,4 @@
 # CS-330-Computer-Graphics-
-SNHU C++ Course on Computer graphics
 
    ##How do I approach designing software?
     I approach designing software with a troubleshooting process in mind. I start by reading documentation and then immeditaley start experimenting with the different technologies used in the project.
