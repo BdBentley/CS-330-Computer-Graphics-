@@ -22,8 +22,7 @@ for the final project. It is easier to take things in bite sized portions instea
 I would work with the tutorial code, read documentation, develop iteratively, and test my software constantly. The approach remained relatively the same
 throughout this work. It only changed towards the end where I had to build the project separately from the tutorial code.
       
-### How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational/professional
-pathway?
+### How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational/professional pathway?
 Computational graphics and visualizations have many uses in the Computer Science field beyond the typical usage in video games. We need graphics for 
 scientific processes as well as simulations. This will help in my educational pathway by helping me understand more complex languages and development           processes
 
